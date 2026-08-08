@@ -447,6 +447,13 @@ interview-coach-skill/
     ├── story-mapping-engine.md         # Portfolio-optimized story mapping with fit scoring
     ├── calibration-engine.md           # Scoring drift detection, root cause tracking, success patterns
     ├── challenge-protocol.md           # Five-lens challenge framework (Level 5 only): assumption audit, blind spot scan, pre-mortem, devil's advocate, strengthening path
+    ├── coaching-state-schema.md        # Full coaching_state.md template + field definitions
+    ├── schema-migration.md             # Migration rules for older coaching_state.md files
+    ├── state-update-triggers.md        # Rules for when each command writes to coaching_state.md
+    ├── archival-rules.md               # Archival thresholds for Score History, Session Log, and Interview Intelligence
+    ├── coaching-voice.md               # Directness modulation guide + coaching failure mode awareness
+    ├── evidence-sourcing.md            # Standard for grounding recommendations in real evidence
+    ├── mode-detection.md               # Priority list for routing un-commanded input to the right command
     └── examples.md                     # Worked examples: scored answers, triage, rewrites, system design analysis
 ```
 
